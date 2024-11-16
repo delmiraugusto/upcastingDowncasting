@@ -1,4 +1,4 @@
-package org.example;
+package application;
 
 import entities.Account;
 import entities.BusinessAccount;
